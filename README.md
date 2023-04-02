@@ -23,3 +23,4 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kent7974/contributions.svg" />
   </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KentHirose)](https://github.com/anuraghazra/github-readme-stats)
