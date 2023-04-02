@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Kent! 👋
 
 <p align="left">
   <a href="https://github.com/KentHirose/KentHirose/">
