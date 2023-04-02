@@ -22,5 +22,6 @@
   <//qiita.com/Kent7974">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kent7974/contributions.svg" />
   </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KentHirose)](https://github.com/KentHirose/github-readme-stats)
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/KentHirose/github-readme-stats)
