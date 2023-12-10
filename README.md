@@ -10,9 +10,6 @@
   <a href="https://github.com/KentHirose">
     <img height="20" src="https://img.shields.io/github/followers/KentHirose?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/needtocwriteusername">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/needtocwriteusername?label=Reddit&logo=reddit&style=flat" />
-  </a>
   <a href="https://stackoverflow.com/users/572342424242/needtocwriteusername">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/31221412432?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
