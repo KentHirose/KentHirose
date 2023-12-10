@@ -4,7 +4,7 @@
   <a href="https://github.com/KentHirose/KentHirose/">
     <img src="https://komarev.com/ghpvc/?username=KentHirose" alt="KentHirose" />
   </a>
-  <a href="http://twitter.com/">
+  <a href="https://twitter.com/kent_h">
     <img height="20" src="https://img.shields.io/twitter/follow/needtocwriteusername?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/KentHirose">
